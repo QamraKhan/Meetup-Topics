@@ -1,4 +1,5 @@
 |Topic | Meetup | By | Done |
+| --- | --- | --- | --- |
 |Instant App | | | |
 |Android Studio 3.0 | | | |
 |Android Architecture Components | | | |
