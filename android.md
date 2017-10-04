@@ -1,17 +1,15 @@
-|Topic | Meetup | By | Done |
-| --- | --- | --- | --- |
+### Firebase + Android
+
+|Topic | Meetup | By | Done | Link |
+| --- | --- | --- | --- | --- |
 |Instant App | | | |
 |Android Studio 3.0 | | | |
 |Android Architecture Components | | | |
 |Lifecycle aware components | | | |
-|Lifecycle Components | August 2017 | Liew Jun Tung - liewjuntung@gmail.com | Done! |
+|Lifecycle Components | August 2017 | Liew Jun Tung - liewjuntung@gmail.com | Done! | [Link](https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html)
 |Persistence Components | | | |
 |Nearby | | | |
 |Android Things | | | |
-|Firebase + Android | | | |
-|RemoteConfig | September 2017 | Noel Chew - chewwengchuen@gmail.com | Done! |
-|Test Lab | | | |
-| | | | |
 |GraphQL | | | |
 |Dagger2 | | | |
 |EventBus | | | |
@@ -22,7 +20,6 @@
 |gRPC | | | |
 |Custom Wallpapers | | | |
 |Widgets | | | |
-| | | | |
 |Job Scheduling | | | |
 |Background Services | | | |
 |Geofencing | | | |
@@ -31,16 +28,24 @@
 |Animated wallpapers | | | |
 |Translation | | | |
 |Tensorflow | | | |
-| | | | |
 |Android Extensions | | | |
 |rxKotlins | | | |
 |Static methods | | | |
 |Higher order functions | | | |
 |Function extensions | | | |
-| | | | |
 |ConstraintLayout | | | |
 |Design Library  | | | |
 |Fonts | | | |
 |Colors | | | |
 |CustomViews | | | |
+
+### Firebase + Android
+
+|Topic | Meetup | By | Done | References |
+| --- | --- | --- | --- | --- |
+|RemoteConfig | September 2017 | Noel Chew - chewwengchuen@gmail.com | Done! | [Link](https://github.com/NoelChew/RemoteConfigExercise) |
+|Test Lab | | | |
+|Analytics | | | |
+|Notifications  | | | |
+|Firebase Cloud Messenging  | | | |
 
