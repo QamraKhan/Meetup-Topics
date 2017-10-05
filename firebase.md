@@ -20,6 +20,7 @@
 |Cloud Messaging | | | |
 |Dynamic Links | | | |
 |Remote Config | | | |
+|Remote Config + A/B Testing (Android) | 28 September 2017 (Android Meetup) | Noel Chew - chewwengchuen@gmail.com | Done! | [Link](https://github.com/NoelChew/RemoteConfigExercise) |
 |Invites | | | |
 |App Indexing | | | |
 |AdMob | | | |

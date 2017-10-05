@@ -6,7 +6,7 @@
 |Android Studio 3.0 | | | |
 |Android Architecture Components | | | |
 |Lifecycle aware components | | | |
-|Lifecycle Components | August 2017 | Liew Jun Tung - liewjuntung@gmail.com | Done! | [Link](https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html)
+|Lifecycle Components | 26 August 2017 | Liew Jun Tung - liewjuntung@gmail.com | Done! | [Link](https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html)
 |Persistence Components | | | |
 |Nearby | | | |
 |Android Things | | | |
@@ -38,14 +38,3 @@
 |Fonts | | | |
 |Colors | | | |
 |CustomViews | | | |
-
-### Firebase + Android
-
-|Topic | Meetup | By | Done | References |
-| --- | --- | --- | --- | --- |
-|RemoteConfig | September 2017 | Noel Chew - chewwengchuen@gmail.com | Done! | [Link](https://github.com/NoelChew/RemoteConfigExercise) |
-|Test Lab | | | |
-|Analytics | | | |
-|Notifications  | | | |
-|Firebase Cloud Messenging  | | | |
-
