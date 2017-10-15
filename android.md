@@ -28,13 +28,13 @@
 |Animated wallpapers | | | |
 |Translation | | | |
 |Tensorflow | | | |
-|Android Extensions | | | |
-|rxKotlins | | | |
 |Static methods | | | |
 |Higher order functions | | | |
-|Function extensions | | | |
+|Extension Functions | | | |
+|Kotlin Extensions | | | |
+|rxKotlins | | | |
 |ConstraintLayout | | | |
-|Design Library  | | | |
+|Support Design Library  | | | |
 |Fonts | | | |
 |Colors | | | |
 |CustomViews | | | |
