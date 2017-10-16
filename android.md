@@ -28,13 +28,13 @@
 |Animated wallpapers | | | |
 |Translation | | | |
 |Tensorflow | | | |
-|Android Extensions | | | |
-|rxKotlins | | | |
 |Static methods | | | |
 |Higher order functions | | | |
-|Function extensions | | | |
+|Extension Functions | | | |
+|Kotlin Extensions | | | |
+|rxKotlins | | | |
 |ConstraintLayout | | | |
-|Design Library  | | | |
+|Support Design Library  | TBD | Toru Wonyoung Choi - blueocean239@gmail.com | Soon | [Java](https://codelabs.developers.google.com/codelabs/mdc-android/index.html?index=..%2F..%2Findex#0) [Kotlin](https://codelabs.developers.google.com/codelabs/mdc-android-kotlin/index.html?index=..%2F..%2Findex#0) 
 |Fonts | | | |
 |Colors | | | |
 |CustomViews | | | |
